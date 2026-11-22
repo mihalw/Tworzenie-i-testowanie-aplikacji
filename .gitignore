@@ -1,0 +1,47 @@
+
+# ===================================
+# .NET - pliki kompilacji
+# ===================================
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+
+# ===================================
+# Visual Studio
+# ===================================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===================================
+# Visual Studio Code
+# ===================================
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# ===================================
+# Pliki tymczasowe i logi
+# ===================================
+*.log
+*.tmp
+*.temp
+
+# ===================================
+# System operacyjny
+# ===================================
+.DS_Store
+Thumbs.db
+
+# ===================================
+# Pliki lokalne i sekrety
+# ===================================
+.env
+.env.*
+!.env.example
+
