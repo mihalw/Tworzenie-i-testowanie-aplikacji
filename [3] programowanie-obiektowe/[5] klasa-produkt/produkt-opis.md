@@ -13,9 +13,9 @@ Wewnątrz metody Main:
 - wywołaj metodę WyswietlInformacje dla obiektu
 - wywołaj metodę ObnizCene z argumentem 20, aby obniżyć cenę produktu
 - wywołaj metodę WyswietlInformacje dla obiektu 
--
+
 - stwórz drugi obiekt za pomocą konstruktora czteroargumentowego ("Pralka", 2500, "AGD", "dostępny")
 - wywołaj metodę Sprzedaj dla drugiego obiektu
 - wywołaj metodę WyswietlInformacje dla drugiego obiektu
 - ponownie wywołaj metodę Sprzedaj dla drugiego obiektu
--   
+   
